@@ -7,21 +7,30 @@ In this Project I have analyze and gain insight of the kind of content available
   <li>Loading Libraries </li>
   <li>Data Cleaning & Finding Missing values</li>
   <li>Data Visualization</li>
+  </ul>
 # Data Visualization
 <ul style="list-style-type:circle;">
-  <li>Type: Movies & Tv Shows 
-      ![__results___42_2](https://user-images.githubusercontent.com/80893000/210355324-2b152df4-08ba-46b4-8345-c1cef713112c.png)
-</li>
+  <li>Type: Movies & Tv Shows</li>
   <li>Rating of Shows & Movies </li>
-  <li>Data Cleaning & Finding Missing values</li>
-  <li>Data Visualization</li>	
+  <li>Relation Between Type and Rating</li>
+  <li>Pie-chart for the Type: Movie and TV Shows</li>	
+  <li>Pie-chart for Rating</li>
+  <li>Showing Wordcloud For Country, Directors,Category </li>
+  </ul>
+# Libraries Used
+<ul style="list-style-type:circle;">
+  <li>Numpy</li>
+  <li>Pandas </li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>	
+  <li>Wordcloud</li>
+  </ul>
 
-Let's figure out current trends! For example, in this notebook, following questions are analized:
+# Methodology
+The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, two pie chart and one bar graph with matplotlib, seaborn and worldcloud.
 
-Which show is more common in this Netflix dataset, movie or TV show? What is the most frequent word in the datasets's show titles? Which country produces most titles? How long is a typical movie? Which show genre is the most frequently ocurring in Netflix?
-
-Methodology
-The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of one scatter plot, one histogram, one box plot and one bar graph with matplotlib, seaborn and worldcloud.
-
-Sources
-https://www.kaggle.com/shivamb/netflix-shows
+# Kaggle link
+<ul style="list-style-type:circle;">
+  <li>Dataset: https://www.kaggle.com/shivamb/netflix-shows .</li>
+  <li> My Notebook : https://www.kaggle.com/code/nidhiy07/netflix-data-analysis </li>
+</ul>
