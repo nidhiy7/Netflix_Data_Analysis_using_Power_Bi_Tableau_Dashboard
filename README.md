@@ -8,6 +8,7 @@ In this Project I have analyze and gain insight of the kind of content available
   <li>Data Cleaning & Finding Missing values</li>
   <li>Data Visualization</li>
   </ul>
+  
 # Data Visualization
 <ul style="list-style-type:circle;">
   <li>Type: Movies & Tv Shows</li>
@@ -17,6 +18,7 @@ In this Project I have analyze and gain insight of the kind of content available
   <li>Pie-chart for Rating</li>
   <li>Showing Wordcloud For Country, Directors,Category </li>
   </ul>
+  
 # Libraries Used
 <ul style="list-style-type:circle;">
   <li>Numpy</li>
@@ -27,6 +29,7 @@ In this Project I have analyze and gain insight of the kind of content available
   </ul>
 
 # Methodology
+
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, two pie chart and one bar graph with matplotlib, seaborn and worldcloud.
 
 # Kaggle link
