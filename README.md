@@ -1,5 +1,5 @@
 # Netflix-Data-Analysis
-# Project Description
+## Project Description
 In this Project I have analyze and gain insight of the kind of content available in the Netflix dataset.
 # Roadmap
 <ul style="list-style-type:circle;">
@@ -9,7 +9,7 @@ In this Project I have analyze and gain insight of the kind of content available
   <li>Data Visualization</li>
   </ul>
   
-# Data Visualization
+## Data Visualization
 <ul style="list-style-type:circle;">
   <li>Type: Movies & Tv Shows</li>
   <li>Rating of Shows & Movies </li>
@@ -19,7 +19,7 @@ In this Project I have analyze and gain insight of the kind of content available
   <li>Showing Wordcloud For Country, Directors,Category </li>
   </ul>
   
-# Libraries Used
+## Libraries Used
 <ul style="list-style-type:circle;">
   <li>Numpy</li>
   <li>Pandas </li>
@@ -28,12 +28,21 @@ In this Project I have analyze and gain insight of the kind of content available
   <li>Wordcloud</li>
   </ul>
 
-# Methodology
+## Methodology
 
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, two pie chart and one bar graph with matplotlib, seaborn and worldcloud.
 
-# Kaggle link
+## Kaggle link
 <ul style="list-style-type:circle;">
   <li>Dataset: https://www.kaggle.com/shivamb/netflix-shows .</li>
   <li> My Notebook : https://www.kaggle.com/code/nidhiy07/netflix-data-analysis </li>
 </ul>
+
+# Netflix Data Analysis Using Power Bi Dashboard
+
+## Project Description
+The project shows the  insights of the Netflix . 
+
+## Problem Statement
+To Build a Power BI dashboard that can give real time Netflix insights of Tv Shows & Movies.
+
